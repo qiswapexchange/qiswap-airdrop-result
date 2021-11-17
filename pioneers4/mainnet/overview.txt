@@ -1,0 +1,56 @@
+QRC20 token address: 54fefdb5b31164f66ddb68becd7bdd864cacd65b
+Airdrop contract address: c4a89ce4d02314b5cfd87ff6791ae8c41ba7310d
+---
+Overview
+Planned token amount 500000
+Total number of receivers 297
+Calculated Airdrop total amount 499999.999999999999
+
+
+---
+Process of Airdrop
+
+---
+Transfering funds to the AirdropQRC20 contract on mainnet...
+transaction hash: result/pioneers4/mainnet/transaction_fund_to_contract_hash.txt
+transaction decoded: result/pioneers4/mainnet/transaction_fund_to_contract.json
+https://qtum.info/tx/45397cf845c64f72f55f852f5d89fc5b7438e0f0f8f4b814a72c3ba905a3d809
+
+---
+Sending airdrop transaction to chunk 1 consisting of 100 receivers
+transaction hash: result/pioneers4/mainnet/transaction_airdrop_chunk1_hash.txt
+transaction decoded: result/pioneers4/mainnet/transaction_airdrop_chunk1.json
+https://qtum.info/tx/163b7e59641f4fc2c70cc72d4462a78d3d81bbcffb3e6d001fc5e815f6b77e90
+gasUsed 1861674
+gas_cost 0.7446696
+---
+
+---
+Sending airdrop transaction to chunk 2 consisting of 100 receivers
+transaction hash: result/pioneers4/mainnet/transaction_airdrop_chunk2_hash.txt
+transaction decoded: result/pioneers4/mainnet/transaction_airdrop_chunk2.json
+https://qtum.info/tx/c8dbcf4790ccca3e3003075c3b0e64574129b7196fa539a03a1fedf1d5ae4a9e
+gasUsed 1515894
+gas_cost 0.6063576
+---
+
+---
+Sending airdrop transaction to chunk 3 consisting of 97 receivers
+transaction hash: result/pioneers4/mainnet/transaction_airdrop_chunk3_hash.txt
+transaction decoded: result/pioneers4/mainnet/transaction_airdrop_chunk3.json
+https://qtum.info/tx/88ff7415ce78fd3acdcceee3e949dbc6ce4525f78f416928701dc77aba09569e
+gasUsed 1371525
+gas_cost 0.5486100
+---
+
+---
+Total gas cost: 1.8996372
+---
+
+---
+Remaining tokens after airdrop 3.9507E-13
+Cleaning Dust - 3.9507E-13 Qi...
+transaction hash: result/pioneers4/mainnet/transaction_cleanDustQtum_hash.txt
+transaction decoded: result/pioneers4/mainnet/transaction_cleanDustQtum.json
+https://qtum.info/tx/f8dcd4bf112c01b24bfb5d6186cea2846e540c2bc79f25a7cfddc9d574172193
+---

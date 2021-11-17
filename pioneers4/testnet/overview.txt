@@ -1,0 +1,41 @@
+qrc20_address: 1db85830d4abc45e9b44be0b133c71132cc85bb3
+airdrop_contract_address: ff7f0e794d271bc4539627f65a83559135f249e0
+---
+
+transaction hash: result/pioneers4/testnet/transaction_fund_to_contract_hash.txt
+transaction decoded: result/pioneers4/testnet/transaction_fund_to_contract.json
+
+balance 500001
+Total number of receivers 297
+Airdrop total_amount 499999.999999999999
+
+---
+transaction hash: result/pioneers4/testnet/transaction_airdrop_chunk1_hash.txt
+transaction decoded: result/pioneers4/testnet/transaction_airdrop_chunk1.json
+gasUsed 2787374
+gas_cost 1.1149496
+---
+
+---
+transaction hash: result/pioneers4/testnet/transaction_airdrop_chunk2_hash.txt
+transaction decoded: result/pioneers4/testnet/transaction_airdrop_chunk2.json
+Sending raw transaction 2...
+gasUsed 2786594
+gas_cost 1.1146376
+---
+
+---
+transaction hash: result/pioneers4/testnet/transaction_airdrop_chunk3_hash.txt
+transaction decoded: result/pioneers4/testnet/transaction_airdrop_chunk3.json
+gasUsed 2703254
+gas_cost 1.0813016
+---
+
+---
+Total gas cost: 3.3108888
+---
+
+calculated_remaining_tokens_after_airdrop 1.000000000001
+actual_remaining_tokens_after_airdrop 1.00000000000039507
+Cleaning Dust - 1.00000000000039507 Qi...
+---
