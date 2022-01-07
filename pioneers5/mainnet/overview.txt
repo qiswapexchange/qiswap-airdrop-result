@@ -1,0 +1,56 @@
+QRC20 token(QI) address: 54fefdb5b31164f66ddb68becd7bdd864cacd65b
+Airdrop contract address: c4a89ce4d02314b5cfd87ff6791ae8c41ba7310d
+---
+Overview
+Planned token amount 500000
+Total number of receivers 280
+Calculated Airdrop total amount 500000.000000000004
+
+
+---
+Process of Airdrop
+
+---
+Transfering funds to the AirdropQRC20 contract on mainnet...
+transaction hash: result/pioneers5/mainnet/transaction_fund_to_contract_hash.txt
+transaction decoded: result/pioneers5/mainnet/transaction_fund_to_contract.json
+https://qtum.info/tx/141201285b3a0913f8fcadbb6bfedc2d36be439980e69b5e735910e892da794a
+
+---
+Sending airdrop transaction to chunk 1 consisting of 100 receivers
+transaction hash: result/pioneers5/mainnet/transaction_airdrop_chunk1_hash.txt
+transaction decoded: result/pioneers5/mainnet/transaction_airdrop_chunk1.json
+https://qtum.info/tx/846dae4edc9dac02273c1ad91db12fde10fa0b07b4bd7ed38e6f8af9287262cd
+gasUsed 1666602
+gas_cost 0.6666408
+---
+
+---
+Sending airdrop transaction to chunk 2 consisting of 100 receivers
+transaction hash: result/pioneers5/mainnet/transaction_airdrop_chunk2_hash.txt
+transaction decoded: result/pioneers5/mainnet/transaction_airdrop_chunk2.json
+https://qtum.info/tx/150358f1a28b4984621a451d4c3baed67b571d372fcf9b6effabb93335519f42
+gasUsed 1425594
+gas_cost 0.5702376
+---
+
+---
+Sending airdrop transaction to chunk 3 consisting of 80 receivers
+transaction hash: result/pioneers5/mainnet/transaction_airdrop_chunk3_hash.txt
+transaction decoded: result/pioneers5/mainnet/transaction_airdrop_chunk3.json
+https://qtum.info/tx/35d5e1a96f724c30f4015433c946748c6cf5e1a6ee4515fdc44c7e67dbb84e5b
+gasUsed 1091725
+gas_cost 0.4366900
+---
+
+---
+Total gas cost: 1.6735684
+---
+
+---
+Remaining tokens after airdrop 3.66868E-13
+Cleaning Dust - 3.66868E-13 Qi...
+transaction hash: result/pioneers5/mainnet/transaction_cleanDustQtum_hash.txt
+transaction decoded: result/pioneers5/mainnet/transaction_cleanDustQtum.json
+https://qtum.info/tx/7ebf57aa41a35a3db7ebeed3e795fe7428e8f3e06d7ffdf0fbfb810119628223
+---
