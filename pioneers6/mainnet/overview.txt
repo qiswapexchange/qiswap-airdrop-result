@@ -1,0 +1,17 @@
+QRC20 token(QI) address: 54fefdb5b31164f66ddb68becd7bdd864cacd65b
+Airdrop contract address: c4a89ce4d02314b5cfd87ff6791ae8c41ba7310d
+---
+Overview
+Planned token amount 500000
+Total number of receivers 311
+Calculated Airdrop total amount 500000.000000000004
+
+Transaction1: https://qtum.info/tx/9defeb20014960c11549f26923be46ce69513855f012f5dd43e20993dee468fa
+
+Transaction2: https://qtum.info/tx/8bafa449573e610a6c974f1b3bec6003d1668cd95d1a5334d5206f343f147009
+
+
+Transaction3: https://qtum.info/tx/7caa1f57f3c5453c96ec44ffd5d0bb0854e8cac78bbbbe508659d1ff3cf65d4c
+
+Transaction4: https://qtum.info/tx/d5ec02c0b640b2b02cfcd8d9c75232dbc4f53fb605391d56fd21f31d36328c0c
+
